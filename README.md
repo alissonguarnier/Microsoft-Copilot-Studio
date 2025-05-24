@@ -29,12 +29,12 @@ Neste desafio, explorei o Microsoft Copilot Studio, uma plataforma da Microsoft 
 
 ## 📂 Estrutura do Repositório
 
-'''
+```
 copilot-studio-desafio/
 ├── README.md # Resumo do desafio e aprendizados
 ├── imagens/ # Prints do copiloto funcionando (opcional)
 └── configs/ # Arquivos exportados do copiloto (opcional)
-'''
+```
 
 
 ## 🔗 Documentação de Apoio
