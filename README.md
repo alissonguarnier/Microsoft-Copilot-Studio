@@ -1,41 +1,24 @@
-# 🚀 Desafio: Criando Meu Primeiro Copiloto com o Microsoft Copilot Studio
+# 🤖 Desafio - Microsoft Copilot Studio
 
-## 📌 Resumo do Aprendizado
+## 📝 Resumo
 
-Neste desafio, explorei o Microsoft Copilot Studio, uma plataforma da Microsoft que permite criar copilotos (bots inteligentes) com fluxos de conversação baseados em inteligência artificial.
+Neste desafio, estudei e utilizei o **Microsoft Copilot Studio** para criar minha própria IA conversacional. Desenvolvi um copiloto personalizado com fluxos de conversa estruturados e interativos.
 
-## ✅ O que aprendi
+Durante o processo, aprendi a:
 
-- **Introdução ao Copilot Studio**  
-  Aprendi que a ferramenta é voltada para a criação de bots personalizados, com estrutura modular baseada em tópicos e ações.
+- Criar e configurar tópicos de conversa.
+- Utilizar **gatilhos e condições** para controlar o fluxo.
+- Personalizar mensagens e interações com o usuário.
+- Aplicar a **IA generativa** para permitir respostas mais naturais, mesmo para perguntas não programadas diretamente.
 
-- **Criação do Meu Primeiro Copiloto**  
-  Durante a prática, criei um copiloto com:
-  - Um gatilho de saudação como “Olá”
-  - Um fluxo de conversa automatizado com perguntas e respostas
-  - Um tópico personalizado com lógica condicional
+O Copilot Studio demonstrou ser uma ferramenta poderosa para criação de assistentes virtuais inteligentes com interface visual amigável e integração com fontes externas.
 
-- **Funcionalidades exploradas**
-  - Interface visual para edição de fluxos
-  - Adição de perguntas frequentes (QnA)
-  - Uso da IA generativa para sugerir respostas contextuais
-  - Publicação e teste do copiloto diretamente na interface da ferramenta
+## 🚀 O que foi feito
 
-## 🛠️ Ferramentas Utilizadas
-
-- Microsoft Copilot Studio (Web)
-- Navegador Microsoft Edge
-- Conta Microsoft para acesso ao ambiente
-
-## 📂 Estrutura do Repositório
-
-```
-copilot-studio-desafio/
-├── README.md # Resumo do desafio e aprendizados
-├── imagens/ # Prints do copiloto funcionando
-└── configs/ # Arquivos exportados do copiloto 
-```
-
+- ✅ Criação de um copiloto funcional
+- ✅ Uso da IA generativa para respostas inteligentes
+- ✅ Testes interativos na própria plataforma
+- ✅ Estudo da documentação oficial da Microsoft
 
 ## 🔗 Documentação de Apoio
 
